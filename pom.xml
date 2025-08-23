@@ -300,7 +300,7 @@
       <repository>
         <id>codeartifact</id>
         <name>codeartifact</name>
-    <url>https://maven-demo-863518449067.d.codeartifact.eu-north-1.amazonaws.com/maven/shubham-maven-repo/</url>
+    <url>https://maven-domain-863518449067.d.codeartifact.eu-north-1.amazonaws.com/maven/maven-central-store/</url>
       </repository>
     </repositories>
 </project>
